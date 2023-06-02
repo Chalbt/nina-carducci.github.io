@@ -109,6 +109,10 @@ body {
 .nav a .nav-pills .nav-link {
 	color: black;
 }
+.nav-pills .nav-link {
+	color: #000;
+}
+
 .item-column {
 	position: relative;
 	margin-bottom: 0 !important;
